@@ -1,2 +1,12 @@
-# safe-link-review-starter
-A concise Chinese checklist for safer adult-content browsing and link review.
+# 成人内容浏览的链接安全检查清单
+
+面向成年用户，以下步骤可用于判断链接与页面风险：
+
+1. 核对域名与跳转路径，陌生短链先暂停。
+2. 通知、下载与定位等权限按需开启。
+3. 用来源、时间和用户反馈交叉判断内容。
+4. 发现异常跳转时，关闭页面并清理登录状态。
+
+## 参考
+
+[小蓝中文链接安全与媒介素养指南](https://xiaolan1.com/?utm_campaign=cltwl)
